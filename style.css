@@ -159,11 +159,10 @@ width: 75%;
 }
 
 @media not all and (min-resolution:.001dpcm) { 
-    @media {
-        .safari10 { 
-            color:#0000FF; 
-            background-color:#CCCCCC; 
-        }
-    }
+     @supports (-webkit-appearance:none) {
+          .features-section {
+            background-color: #fff;
+       }
+     }
 }
 
