@@ -36,8 +36,8 @@ hr {
 }
 
 .carousel-img {
-  max-height: 900px;
-  width: 75%;
+  height: 900px;
+  max-width: 100%;
   border-top: 10px solid #4d93b5;
   border-right: 10px solid #000000;
   border-bottom: 10px solid #4d93b5;
