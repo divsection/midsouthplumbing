@@ -85,7 +85,7 @@ div.fb-like.fb_iframe_widget {
 
 #cta-btn {
   margin: auto auto 3px 15px;
-  border: 2px solid white;
+  border: 1px solid white;
 }
 
 #map {
@@ -166,8 +166,7 @@ div.fb-like.fb_iframe_widget {
   padding: 3% 0 30%;
 }
 
-/*******background-color: rgb(255,255,255,1);
-***/
+
 #features-section {
   text-align: center;
   padding: 10% 15%;
